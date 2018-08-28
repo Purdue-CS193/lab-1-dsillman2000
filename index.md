@@ -1,4 +1,4 @@
-#David Sillman's first CS193 Lab
+# David Sillman's first CS193 Lab
 Things I like about CS193:
 - It's not very difficult so far
 - The instructors are cool
