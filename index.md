@@ -1,4 +1,10 @@
-# Welcome to GitHub Pages
+#David Sillman's first CS193 Lab
+Things I like about CS193:
+- It's not very difficult so far
+- The instructors are cool
+- I know most of the material already
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
